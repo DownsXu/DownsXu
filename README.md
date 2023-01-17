@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://downsxu.top/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=青山入我怀.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=青山入我怀.;System.out.print(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
