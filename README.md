@@ -6,10 +6,5 @@
 
 <div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 
-
-**DownsXu/DownsXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning in Anhui University of Science and Technology
 
