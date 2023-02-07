@@ -8,7 +8,5 @@
   </a>
 </h1>
 
-<div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
-
 - 🌱 I’m currently learning in Anhui University of Science and Technology
 
