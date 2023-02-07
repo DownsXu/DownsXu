@@ -6,7 +6,7 @@
 <br>
 <h1 align="center">
   <a href="https://downsxu.top/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System.out.print(%22Hello%EF%BC%8Cworld%22);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System.out.print(%22Hello%EF%BC%8Cworld%22);"><br>
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System.out.print(%22Hello%EF%BC%8Cworld%22);">
   </a>
 </h1>
