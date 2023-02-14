@@ -2,6 +2,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 </p>
 
+
+
 <h1 align="center">
   <a href="https://downsxu.top/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System.out.print(%22Hello%EF%BC%8Cworld%22);">
@@ -12,16 +14,18 @@
   </a>
 </h1>
   
-  
-
-
 - 🌱 I’m currently learning in Anhui University of Science and Technology
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+
+
   
   <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DownsXu&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
+  <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 </p>
 
 <!-- <div align="center">
