@@ -1,17 +1,19 @@
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+</p>
+
 <h1 align="center">
   <a href="https://downsxu.top/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System.out.print(%22Hello%EF%BC%8Cworld%22);"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=print(%22Hello%EF%BC%8Cworld%22);"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=cout<<%22Hello%EF%BC%8Cworld%22;"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=printf(%22Hello%EF%BC%8Cworld%22);"><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=System.out.print(%22Hello%EF%BC%8Cworld%22);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=print(%22Hello%EF%BC%8Cworld%22);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=cout<<%22Hello%EF%BC%8Cworld%22;">
+<!--     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=printf(%22Hello%EF%BC%8Cworld%22);"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=console.log(%22Hello%EF%BC%8Cworld%22);"
   </a>
 </h1>
   
   
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-</p>
+
 
 - 🌱 I’m currently learning in Anhui University of Science and Technology
   
